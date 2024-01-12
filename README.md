@@ -1,6 +1,6 @@
 # literate-octo-tribble
 
-# Version: 1.0.2
+# Version: 1.0.3
 
 This is added on the release/development branch
 
